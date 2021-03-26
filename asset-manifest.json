@@ -58,10 +58,10 @@
     "static/js/27.a023bcdf.chunk.js": "/ayugold.com/static/js/27.a023bcdf.chunk.js",
     "static/js/27.a023bcdf.chunk.js.map": "/ayugold.com/static/js/27.a023bcdf.chunk.js.map",
     "main.css": "/ayugold.com/static/css/main.f02a9094.chunk.css",
-    "main.js": "/ayugold.com/static/js/main.31ffe68f.chunk.js",
-    "main.js.map": "/ayugold.com/static/js/main.31ffe68f.chunk.js.map",
-    "runtime-main.js": "/ayugold.com/static/js/runtime-main.e04d4b07.js",
-    "runtime-main.js.map": "/ayugold.com/static/js/runtime-main.e04d4b07.js.map",
+    "main.js": "/ayugold.com/static/js/main.e73679cf.chunk.js",
+    "main.js.map": "/ayugold.com/static/js/main.e73679cf.chunk.js.map",
+    "runtime-main.js": "/ayugold.com/static/js/runtime-main.e13ddfb5.js",
+    "runtime-main.js.map": "/ayugold.com/static/js/runtime-main.e13ddfb5.js.map",
     "static/css/30.05dd3fbe.chunk.css": "/ayugold.com/static/css/30.05dd3fbe.chunk.css",
     "static/js/30.139ed01b.chunk.js": "/ayugold.com/static/js/30.139ed01b.chunk.js",
     "static/js/30.139ed01b.chunk.js.map": "/ayugold.com/static/js/30.139ed01b.chunk.js.map",
@@ -127,8 +127,8 @@
     "static/js/60.7f657187.chunk.js.map": "/ayugold.com/static/js/60.7f657187.chunk.js.map",
     "static/js/61.d7b928fc.chunk.js": "/ayugold.com/static/js/61.d7b928fc.chunk.js",
     "static/js/61.d7b928fc.chunk.js.map": "/ayugold.com/static/js/61.d7b928fc.chunk.js.map",
-    "static/js/62.17d72a28.chunk.js": "/ayugold.com/static/js/62.17d72a28.chunk.js",
-    "static/js/62.17d72a28.chunk.js.map": "/ayugold.com/static/js/62.17d72a28.chunk.js.map",
+    "static/js/62.3fa6f5bb.chunk.js": "/ayugold.com/static/js/62.3fa6f5bb.chunk.js",
+    "static/js/62.3fa6f5bb.chunk.js.map": "/ayugold.com/static/js/62.3fa6f5bb.chunk.js.map",
     "static/js/63.dd1697bb.chunk.js": "/ayugold.com/static/js/63.dd1697bb.chunk.js",
     "static/js/63.dd1697bb.chunk.js.map": "/ayugold.com/static/js/63.dd1697bb.chunk.js.map",
     "static/js/64.276bf22a.chunk.js": "/ayugold.com/static/js/64.276bf22a.chunk.js",
@@ -269,8 +269,8 @@
     "static/js/131.f46cd990.chunk.js.map": "/ayugold.com/static/js/131.f46cd990.chunk.js.map",
     "static/js/132.2c4d2ed3.chunk.js": "/ayugold.com/static/js/132.2c4d2ed3.chunk.js",
     "static/js/132.2c4d2ed3.chunk.js.map": "/ayugold.com/static/js/132.2c4d2ed3.chunk.js.map",
-    "static/js/133.4c05bc19.chunk.js": "/ayugold.com/static/js/133.4c05bc19.chunk.js",
-    "static/js/133.4c05bc19.chunk.js.map": "/ayugold.com/static/js/133.4c05bc19.chunk.js.map",
+    "static/js/133.64b19613.chunk.js": "/ayugold.com/static/js/133.64b19613.chunk.js",
+    "static/js/133.64b19613.chunk.js.map": "/ayugold.com/static/js/133.64b19613.chunk.js.map",
     "static/js/134.10dea4ce.chunk.js": "/ayugold.com/static/js/134.10dea4ce.chunk.js",
     "static/js/134.10dea4ce.chunk.js.map": "/ayugold.com/static/js/134.10dea4ce.chunk.js.map",
     "static/js/135.1421a676.chunk.js": "/ayugold.com/static/js/135.1421a676.chunk.js",
@@ -324,7 +324,7 @@
     "static/js/159.d53f5a92.chunk.js": "/ayugold.com/static/js/159.d53f5a92.chunk.js",
     "static/js/159.d53f5a92.chunk.js.map": "/ayugold.com/static/js/159.d53f5a92.chunk.js.map",
     "index.html": "/ayugold.com/index.html",
-    "precache-manifest.781ad0f0a5ea5c796f741b65f1b85eec.js": "/ayugold.com/precache-manifest.781ad0f0a5ea5c796f741b65f1b85eec.js",
+    "precache-manifest.302b54800bf8718404f8bcb8b70ebe89.js": "/ayugold.com/precache-manifest.302b54800bf8718404f8bcb8b70ebe89.js",
     "service-worker.js": "/ayugold.com/service-worker.js",
     "static/css/18.e94d5e4c.chunk.css.map": "/ayugold.com/static/css/18.e94d5e4c.chunk.css.map",
     "static/css/30.05dd3fbe.chunk.css.map": "/ayugold.com/static/css/30.05dd3fbe.chunk.css.map",
@@ -376,10 +376,10 @@
     "static/media/transferBalance.svg": "/ayugold.com/static/media/transferBalance.e26228dc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e04d4b07.js",
+    "static/js/runtime-main.e13ddfb5.js",
     "static/css/30.05dd3fbe.chunk.css",
     "static/js/30.139ed01b.chunk.js",
     "static/css/main.f02a9094.chunk.css",
-    "static/js/main.31ffe68f.chunk.js"
+    "static/js/main.e73679cf.chunk.js"
   ]
 }
