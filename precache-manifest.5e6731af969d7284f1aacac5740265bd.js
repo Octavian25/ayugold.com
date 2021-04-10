@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89b9f6c70ca0554b53ffd45b28601c9f",
+    "revision": "0e8aa1f4d849a072bd4a821e4b4b9610",
     "url": "/ayugold.com/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ayugold.com/static/css/23.05dd3fbe.chunk.css"
   },
   {
-    "revision": "52fa8e53d9f119928d79",
+    "revision": "478f6cb60db39a777798",
     "url": "/ayugold.com/static/css/main.f02a9094.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ayugold.com/static/js/10.1776dd6b.chunk.js"
   },
   {
-    "revision": "3bbb8ca60cb456957a84",
-    "url": "/ayugold.com/static/js/100.328dc453.chunk.js"
+    "revision": "201e7909033c277435eb",
+    "url": "/ayugold.com/static/js/100.960e8fe5.chunk.js"
   },
   {
     "revision": "71dc6fa874d2f43c9c47",
@@ -120,8 +120,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ayugold.com/static/js/12.2a1ba554.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "22e95a3ee56a98c3e746",
-    "url": "/ayugold.com/static/js/120.f477203b.chunk.js"
+    "revision": "1b8e7701106f7171725c",
+    "url": "/ayugold.com/static/js/120.a4792a41.chunk.js"
   },
   {
     "revision": "f8ca4cb81a088888e75c",
@@ -452,8 +452,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ayugold.com/static/js/6.edf55690.chunk.js"
   },
   {
-    "revision": "97fb48d1bd34220bc5da",
-    "url": "/ayugold.com/static/js/60.ad23b424.chunk.js"
+    "revision": "4b1e436acc59f43c1e74",
+    "url": "/ayugold.com/static/js/60.53c24d07.chunk.js"
   },
   {
     "revision": "ff4aa3f07690d15f8093",
@@ -624,12 +624,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ayugold.com/static/js/99.f65b72a4.chunk.js"
   },
   {
-    "revision": "52fa8e53d9f119928d79",
-    "url": "/ayugold.com/static/js/main.29718a72.chunk.js"
+    "revision": "478f6cb60db39a777798",
+    "url": "/ayugold.com/static/js/main.a8381f7e.chunk.js"
   },
   {
-    "revision": "d9aa7372bdfde8b02f12",
-    "url": "/ayugold.com/static/js/runtime-main.1c767c87.js"
+    "revision": "87c2bbc186de01134d8e",
+    "url": "/ayugold.com/static/js/runtime-main.9afd9fcf.js"
   },
   {
     "revision": "4b1323198c1f1568d243a6a50127f9e7",
