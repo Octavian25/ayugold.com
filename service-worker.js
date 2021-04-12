@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ayugold.com/precache-manifest.5e6731af969d7284f1aacac5740265bd.js"
+  "/ayugold.com/precache-manifest.0eaf1c1d743527c2a291eb0cc2d9c01c.js"
 );
 
 self.addEventListener('message', (event) => {
