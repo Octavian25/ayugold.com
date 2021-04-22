@@ -11122,7 +11122,7 @@ fieldset:disabled a.btn {
   background-clip: border-box;
   border: 0 solid #e9ecef;
   border-radius: 0.5rem;
-  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.76);
+  box-shadow: 0 8px 16px 0 rgb(0, 0, 0);
 }
 
 .card > hr {
@@ -12663,6 +12663,10 @@ a.close.disabled {
 
   .modal-sm {
     max-width: 300px;
+  }
+  .modal-lg,
+  .modal-xl {
+    max-width: 80% !important;
   }
 }
 
@@ -18128,7 +18132,7 @@ a.text-purple:hover {
   white-space: nowrap;
   align-items: center;
   line-height: 27px;
-  opacity: 0.7;
+  opacity: 1;
   margin-right: 17px;
 }
 
@@ -18146,12 +18150,13 @@ a.text-purple:hover {
 .sidebar-nav #sidebarnav .sidebar-item .sidebar-link.active,
 .sidebar-nav #sidebarnav .sidebar-item .sidebar-link:hover {
   opacity: 1;
+  font-weight: 500;
 }
 
 .sidebar-nav #sidebarnav .sidebar-item .sidebar-link .hide-menu {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  text-overflow: clip;
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 .sidebar-nav #sidebarnav .sidebar-item.selected > .sidebar-link {
@@ -18214,7 +18219,7 @@ a.text-purple:hover {
   .sidebar-item.active
   .sidebar-link.active {
   color: #fff;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .sidebar-nav
@@ -18872,7 +18877,7 @@ ul.list-style-none li a:hover {
 }
 
 .card {
-  box-shadow: 0 3px 9px 0 rgba(169, 184, 200, 0.15);
+  box-shadow: 0 4px 9px 0 rgba(0, 0, 0, 0.623);
   -webkit-box-shadow: 0 3px 9px 0 rgba(169, 184, 200, 0.15);
   -moz-box-shadow: 0 3px 9px 0 rgba(169, 184, 200, 0.15);
 }
