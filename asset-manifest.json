@@ -31,10 +31,10 @@
     "static/js/14.151ba03a.chunk.js": "/ayugold.com/static/js/14.151ba03a.chunk.js",
     "static/js/14.151ba03a.chunk.js.map": "/ayugold.com/static/js/14.151ba03a.chunk.js.map",
     "main.css": "/ayugold.com/static/css/main.f02a9094.chunk.css",
-    "main.js": "/ayugold.com/static/js/main.1c8f84f1.chunk.js",
-    "main.js.map": "/ayugold.com/static/js/main.1c8f84f1.chunk.js.map",
-    "runtime-main.js": "/ayugold.com/static/js/runtime-main.4e5e47e1.js",
-    "runtime-main.js.map": "/ayugold.com/static/js/runtime-main.4e5e47e1.js.map",
+    "main.js": "/ayugold.com/static/js/main.70e22cf7.chunk.js",
+    "main.js.map": "/ayugold.com/static/js/main.70e22cf7.chunk.js.map",
+    "runtime-main.js": "/ayugold.com/static/js/runtime-main.76a23ed4.js",
+    "runtime-main.js.map": "/ayugold.com/static/js/runtime-main.76a23ed4.js.map",
     "static/css/17.04878ad2.chunk.css": "/ayugold.com/static/css/17.04878ad2.chunk.css",
     "static/js/17.47488663.chunk.js": "/ayugold.com/static/js/17.47488663.chunk.js",
     "static/js/17.47488663.chunk.js.map": "/ayugold.com/static/js/17.47488663.chunk.js.map",
@@ -232,8 +232,8 @@
     "static/js/113.c4218b28.chunk.js.map": "/ayugold.com/static/js/113.c4218b28.chunk.js.map",
     "static/js/114.c3a5d317.chunk.js": "/ayugold.com/static/js/114.c3a5d317.chunk.js",
     "static/js/114.c3a5d317.chunk.js.map": "/ayugold.com/static/js/114.c3a5d317.chunk.js.map",
-    "static/js/115.a85394a4.chunk.js": "/ayugold.com/static/js/115.a85394a4.chunk.js",
-    "static/js/115.a85394a4.chunk.js.map": "/ayugold.com/static/js/115.a85394a4.chunk.js.map",
+    "static/js/115.25827d05.chunk.js": "/ayugold.com/static/js/115.25827d05.chunk.js",
+    "static/js/115.25827d05.chunk.js.map": "/ayugold.com/static/js/115.25827d05.chunk.js.map",
     "static/js/116.4bd9516f.chunk.js": "/ayugold.com/static/js/116.4bd9516f.chunk.js",
     "static/js/116.4bd9516f.chunk.js.map": "/ayugold.com/static/js/116.4bd9516f.chunk.js.map",
     "static/js/117.865ad5c4.chunk.js": "/ayugold.com/static/js/117.865ad5c4.chunk.js",
@@ -289,7 +289,7 @@
     "static/js/142.aa779699.chunk.js": "/ayugold.com/static/js/142.aa779699.chunk.js",
     "static/js/142.aa779699.chunk.js.map": "/ayugold.com/static/js/142.aa779699.chunk.js.map",
     "index.html": "/ayugold.com/index.html",
-    "precache-manifest.2093e62993a4f0f01e68acc7d3709e01.js": "/ayugold.com/precache-manifest.2093e62993a4f0f01e68acc7d3709e01.js",
+    "precache-manifest.755720aba20c46a6ef9d2cf27b5a88f6.js": "/ayugold.com/precache-manifest.755720aba20c46a6ef9d2cf27b5a88f6.js",
     "service-worker.js": "/ayugold.com/service-worker.js",
     "static/css/17.04878ad2.chunk.css.map": "/ayugold.com/static/css/17.04878ad2.chunk.css.map",
     "static/css/main.f02a9094.chunk.css.map": "/ayugold.com/static/css/main.f02a9094.chunk.css.map",
@@ -327,10 +327,10 @@
     "static/media/transferBalance.svg": "/ayugold.com/static/media/transferBalance.e26228dc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e5e47e1.js",
+    "static/js/runtime-main.76a23ed4.js",
     "static/css/17.04878ad2.chunk.css",
     "static/js/17.47488663.chunk.js",
     "static/css/main.f02a9094.chunk.css",
-    "static/js/main.1c8f84f1.chunk.js"
+    "static/js/main.70e22cf7.chunk.js"
   ]
 }
