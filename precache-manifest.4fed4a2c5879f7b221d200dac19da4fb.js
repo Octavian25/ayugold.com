@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0949fce00a32f9fdb97cc5f91bb92ae2",
+    "revision": "1086d350643838ce1fce6aa51a35fc6b",
     "url": "/ayugold.com/index.html"
   },
   {
@@ -368,8 +368,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ayugold.com/static/js/46.48573717.chunk.js"
   },
   {
-    "revision": "c700181e9ba725ef5b7c",
-    "url": "/ayugold.com/static/js/47.c2c691d9.chunk.js"
+    "revision": "1b54d1a30575cf402070",
+    "url": "/ayugold.com/static/js/47.13c9a6f5.chunk.js"
   },
   {
     "revision": "b1e230fcb2585e7fe07c",
@@ -604,8 +604,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ayugold.com/static/js/main.b90a92e0.chunk.js"
   },
   {
-    "revision": "9ba691b3279b199ce638",
-    "url": "/ayugold.com/static/js/runtime-main.d2a86482.js"
+    "revision": "4a6f40b6f47dca9e2309",
+    "url": "/ayugold.com/static/js/runtime-main.2b193f7d.js"
   },
   {
     "revision": "4b1323198c1f1568d243a6a50127f9e7",
